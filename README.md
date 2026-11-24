@@ -1,4 +1,4 @@
 # Git-Course
 For learning git 
 
-##Progect course 
+##Progect notes
